@@ -1,9 +1,9 @@
 {
-	"name": "terminal-tab",
-	"publisher": "shaunakw",
-	"displayName": "terminal-tab",
-	"description": "Adds a status bar tab that opens VSCode's inbuilt terminal.",
-	"version": "0.0.1",
+	"name": "terminal-quick-tabs",
+	"publisher": "shaunakW",
+	"displayName": "Terminal Quick Tabs",
+	"description": "Quickly open terminal from the status bar.",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
