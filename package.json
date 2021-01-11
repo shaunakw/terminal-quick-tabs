@@ -1,5 +1,6 @@
 {
 	"name": "terminal-tab",
+	"publisher": "shaunakw",
 	"displayName": "terminal-tab",
 	"description": "Adds a status bar tab that opens VSCode's inbuilt terminal.",
 	"version": "0.0.1",
@@ -10,17 +11,9 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:terminal-tab.helloWorld"
+		"*"
 	],
 	"main": "./out/extension.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "terminal-tab.helloWorld",
-				"title": "Hello World"
-			}
-		]
-	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
