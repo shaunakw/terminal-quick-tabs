@@ -2,14 +2,14 @@
 	"name": "terminal-quick-tabs",
 	"displayName": "Terminal Quick Tabs",
 	"description": "Quickly open terminal from the status bar.",
-	"publisher": "shaunakW",
+	"publisher": "shaunakw",
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/shaunakW/terminal-quick-tabs"
+		"url": "https://github.com/shaunakw/terminal-quick-tabs"
 	},
 	"bugs": {
-		"url": "https://github.com/shaunakW/terminal-quick-tabs/issues"
+		"url": "https://github.com/shaunakw/terminal-quick-tabs/issues"
 	},
 	"engines": {
 		"vscode": "^1.52.0"
